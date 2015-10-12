@@ -42,7 +42,7 @@ links:
   - title: Categories
     url: /categories
   - title: About
-    url: /hossain-mohd-faysal
+    url: /me
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -111,7 +111,7 @@ prose:
           element: "multiselect"
           label: "Add categories"
           placeholder: "Choose categories"
-          value: personal
+          value: coding
           options:
             - name: "Coding"
               value: coding
