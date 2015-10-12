@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First Commit
-description: "Its ON, baby"
+title: Running Concurrently
+description: "Who did that first? Who?!"
 headline: "Let's Fire up the Engines"
 categories: coding,android,ios
 tags: 
