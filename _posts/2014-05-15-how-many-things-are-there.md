@@ -10,10 +10,12 @@ type: video
 description: ""
 headline: ""
 modified: ""
-categories: null
+categories: 
+  - "null"
 tags: ""
 imagefeature: ""
 ---
 
 
-This Could have been so good
+
+This Could have been so good, but there are too many things, conclusion of the night
