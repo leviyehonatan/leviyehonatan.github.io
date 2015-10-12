@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://leviyehonatan.github.io/'
+  relativeLinks: 'http://leviyehonatan.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
@@ -113,18 +113,8 @@ prose:
           placeholder: "Choose categories"
           value: personal
           options:
-            - name: "Personal"
-              value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
-            - name: "Interesting"
-              value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
+            - name: "Coding"
+              value: coding
           alterable: true
       - name: "tags"
         field:
