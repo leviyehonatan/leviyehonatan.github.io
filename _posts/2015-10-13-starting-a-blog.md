@@ -40,5 +40,5 @@ Ofcourse there are a few downsides, if you need a form to be posted and a server
 
 If you haven't got it until here, then yes the conclusion is that this blog you are reading was started as a simple clone of [https://github.com/hmfaysal/Notepad](https://github.com/hmfaysal/Notepad) and doing a few tweaks here and there got me to present to you with this quick results. I did spend a bit of time figuring out some things, but the result is a nicely looking rich-functional blog for free under github pages hosting and no tools were even used offline, unless you call a browser an offline tool.
 
-Go ahead and start your blog
+Go ahead and start your blog and most importantly, enjoy, and throw a comment while you're at it!
 
