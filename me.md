@@ -15,6 +15,7 @@ published: true
 ---
 
 
+
 ![notcoding.JPG]({{site.baseurl}}/images/notcoding.JPG)
 
 My name is **Yehonatan Levi**, and this is my coding blog.  
@@ -31,3 +32,5 @@ Life has taken me to interesting places across the planet requiring me to code a
 ![coding-on-the-road.jpg]({{site.baseurl}}/images/coding-on-the-road.jpg)
 
 But solving problems is not always easy, and thus i have decided to document some of the obstacles and solutions found on the way.
+
+![coding-on-the-motorway.JPG]({{site.baseurl}}/images/coding-on-the-motorway.JPG)
