@@ -1,11 +1,11 @@
 ---
 layout: post
 published: true
-description: ""
-headline: ""
+description: Modern Blogging
+headline: "All i wanted is a blog!"
 modified: ""
 categories: 
-  - "null"
+  - coding
 tags: ""
 imagefeature: ""
 mathjax: false
@@ -13,6 +13,7 @@ featured: false
 comments: false
 title: Starting a blog
 ---
+
 
 
 
