@@ -1,16 +1,19 @@
 ---
 layout: page
-permalink: "/hossain-mohd-faysal/index.html"
+permalink: /me/index.html
 title: me
 tags: 
-  - Hossain
-  - Mohd
-  - Faysal
-  - hmfaysal
+  - Yehonatan
+  - Levi
+  - leviyehonatan
+  - nickst
+  - "Nick-S"
+  - Nick Stealer
 image: 
-  feature: "Hossain-Mohd-Faysal.jpg"
+  feature: me.jpg
 published: true
 ---
+
 
 
   <img src="{{ site.url }}/images/me.jpg" alt="Yehonatan Levi">
