@@ -14,10 +14,7 @@ image:
 published: true
 ---
 
-
-
-  <img src="{{ site.url }}/images/me.jpg" alt="Yehonatan Levi">
-
+![notcoding.JPG]({{site.baseurl}}/images/notcoding.JPG)
 
 My name is **Yehonatan Levi**, and this is my coding blog.  
 
