@@ -2,9 +2,21 @@
 layout: home
 title: BLOG
 description: "The personal blog of Hossain Mohd. Faysal, a doctoral candidate in Electrical Engineering at University of Pennsylvania."
-headline: An Engineer's Diary
-tags: [Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsylvania, doha, Qatar]
+headline: "An Engineer's Diary"
+tags: 
+  - Hossain
+  - Mohd
+  - Faysal
+  - electrical
+  - engineering
+  - blog
+  - university
+  - pennsylvania
+  - doha
+  - Qatar
+published: true
 ---
+
 {% if site.paginate %}
 	{% for post in paginator.posts %}
     <article class="summer-index-post post row">
@@ -29,7 +41,7 @@ tags: [Hossain, Mohd, Faysal, electrical, engineering, blog, university, pennsyl
                 </h3>
             </header>
             <section class="summer-post-excerpt">
-                <p>{{ post.content | strip_html | truncatewords:40 }}</p>
+                <p>{{ post.excerpt }}</p>
             </section>
             
                 <div class="summer-index-post-tags">
