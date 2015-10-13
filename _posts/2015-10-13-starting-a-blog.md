@@ -15,6 +15,7 @@ title: Starting a blog
 ---
 
 
+
 ## Blog in the modern web
 
 In our time starting a blog should be as easy as 123, but hey, there are so many ways! you could sign up at some blogging website like [tumblr](https://www.tumblr.com/) or even google's [blogger](https://www.blogger.com/) but something doesn't feel right... what is it? oh! you don't feel the code, that's what it is... is it? it sure is for me. And when I recently done some research for some friends for possibilities to get some content on the web, preferably for free, I've well remembered our beloved github's invention [github pages](http://pages.github.com).
@@ -36,7 +37,7 @@ Wait a minute, I know I said I'm a coder, but working on a website that's hosted
 
 ## Help
 
-Ofcourse there are a few downsides, if you need a form to be posted and a server side to receive it you will need to use some altern [alternatives](https://formspree.io/) and you might like them or might not and decide to devise your own solution. Or wait, Comments? thats not static, well there's some great [solution](https://disqus.com) for that too, oh and what about the amazing amount of Wordpress templates that you won't be able to just use out of the box? well, turns out there are quite a [few] (https://github.com/jekyll/jekyll/wiki/Themes) out there to test out, or hell, you could take any template and put some work on it to convert it.
+Ofcourse there are a few downsides, if you need a form to be posted and a server side to receive it you will need to use some altern [alternatives](https://formspree.io/) and you might like them or might not and decide to devise your own solution. Or wait, Comments? thats not static, well there's some great [solution](https://disqus.com) for that too, oh and what about the amazing amount of Wordpress templates that you won't be able to just use out of the box? well, turns out there are quite a few [themes](https://github.com/jekyll/jekyll/wiki/Themes) out there to test out, or hell, you could take any template and put some work on it to convert it.
 
 ## Conclusion
 
