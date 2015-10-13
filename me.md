@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /me
+permalink: /me/index.html
 title: me
 tags: 
   - Yehonatan
