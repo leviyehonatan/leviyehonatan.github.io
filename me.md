@@ -14,6 +14,7 @@ image:
 published: true
 ---
 
+
 ![notcoding.JPG]({{site.baseurl}}/images/notcoding.JPG)
 
 My name is **Yehonatan Levi**, and this is my coding blog.  
@@ -22,4 +23,11 @@ Started programming at age of 6 in my neighbour's basement, being away from home
 
 My interest has been mainly focused on programming languages, tools, computer graphics and physics.
 
-Over the years I have acquired knowledge in different programming languges, operating systems and environments worked for several companies and private clients.
+Over the years I have acquired knowledge in different programming languges, operating systems and environments worked for several companies and private 
+clients.
+
+Life has taken me to interesting places across the planet requiring me to code at rather less comfortable situations, but when I am looking at code nothing else bothers me, such nirvana comes from the code.
+
+![coding-on-the-road.jpg]({{site.baseurl}}/images/coding-on-the-road.jpg)
+
+But solving problems is not always easy, and thus i have decided to document some of the obstacles and solutions found on the way.
